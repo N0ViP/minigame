@@ -2,6 +2,12 @@
 
 `cub3D` is a small raycasting maze renderer written in C using MiniLibX (X11). It loads a `.cub` configuration file (textures, floor/ceiling colors, and a map grid) and renders a textured 3D view with a minimap, doors, and collectible sprites.
 
+## Screenshots
+
+![pic 1](pics/pic%201.png)
+![pic 2](pics/pic%202.png)
+![pic 3](pics/pic%203.png)
+
 ## Features
 
 - Parses `.cub` files with `NO/SO/WE/EA` wall textures and `F/C` RGB colors
